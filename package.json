@@ -1,0 +1,11 @@
+{
+  "name": "hairday",
+  "description": "Aplicação Web de agendamento de corte de cabelo",
+  "author": "Fernando Augusto",
+  "scripts": {
+    "server": "json-server --watch server.json --port 3333"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.21"
+  }
+}
